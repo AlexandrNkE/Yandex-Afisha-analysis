@@ -1,0 +1,37 @@
+﻿# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.so
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Чувствительные данные
+.env
+*.env
+
+# Временные файлы
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Данные и результаты
+output/
+data/raw/
+data/processed/
+*.csv
+*.pickle
+*.pkl
